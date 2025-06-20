@@ -1,1 +1,2 @@
 # An-Efficient-Approach-for-News-Research-using-LLM-and-LangChain
+This design presents an innovative exploration tool using Large Language Models( LLMs) integrated with the LangChain frame, enabling a more interactive and dynamic way of engaging with news papers. By allowing druggies to input composition links and ask natural language queries, the tool provides terse, contextually applicable answers, enabling a more interactive and dy namic way of engaging with news papers, barring the need for homemade composition review.
